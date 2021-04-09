@@ -5,6 +5,7 @@
 ### Introduction
 - The proposed framework contains two parts: semantic segmentation and (distant feature fusion) DFF
 - It can perform knowlegde transfer between seemingly unrealted domains
+<img src="https://user-images.githubusercontent.com/19678358/114207601-8a209780-992a-11eb-8ba1-40a85adcc03a.PNG" width= "100" height="100">
 ![Capture](https://user-images.githubusercontent.com/19678358/114207601-8a209780-992a-11eb-8ba1-40a85adcc03a.PNG)
 
 
