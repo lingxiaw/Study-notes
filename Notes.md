@@ -9,5 +9,5 @@ There are two types of accessible transfer learning: feature-based and instance-
 - Feature-based: map source features and target features into a **common feature space** where the **distribution mismatch is minimized**;
 - Instance-based: discover source instances **similar to** target instances, so that **highly unrelated source samples would be eliminated**. 
 
-Both of them assume that the source domain and target domain share a fairly strong connection. 
+Both of them assume that the source domain and target domain share a fairly strong [connection](https://github.com/lingxiaw/Study-notes/blob/master/Basic%20writing%20and%20formatting%20syntax.md). 
 
