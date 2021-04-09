@@ -13,4 +13,6 @@ Both of them assume that the source domain and target domain share a fairly stro
 
 #### B. Distant Domain Transfer Learning (DDTL)
 - DDTL focuses on using the knowledge in other domains to imrpove the performance of the target task.
-- $`a^2+b^2 = c^2`$
+- e^{i \pi} + 1 = 0
+
+
