@@ -1,7 +1,7 @@
 # Proposal for forest fire monitoring and fire localization with unmanned aerial vehicles (UAVs)
 
 ### Formatting for NSF proposal
-#### - [note link]()
+#### - [note link](https://github.com/lingxiaw/Study-notes/wiki/Formatting-for-NSF-proposal)
 
 ### Autonomous unmanned aerial robots for livestock health monitoring
 
