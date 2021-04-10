@@ -2,7 +2,7 @@
 
 ### Autonomous unmanned aerial robots for livestock health monitoring
 
-#### - [note link]()
+#### - [note link](https://github.com/lingxiaw/Study-notes/wiki/Autonomous-Unmanned-Aerial-Robots-for-Livestock-Health-Monitoring)
 
 
 # Transfer Learning
