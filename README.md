@@ -4,10 +4,10 @@
 #### - [note link](https://github.com/lingxiaw/Study-notes/wiki/Formatting-for-NSF-proposal)
 
 ### Autonomous unmanned aerial robots for livestock health monitoring
-#### - [note link](https://github.com/lingxiaw/Study-notes/blob/master/Survey%20on%20forest%20fire%20monitoring%20using%20unmanned%20aerial%20vehicles.md)
+#### - [note link](https://github.com/lingxiaw/Study-notes/wiki/Autonomous-Unmanned-Aerial-Robots-for-Livestock-Health-Monitoring)
 
 ### Survey on forest fire monitoring using unmanned aerial vehicles
-#### - [note link](https://github.com/lingxiaw/Study-notes/wiki/Autonomous-Unmanned-Aerial-Robots-for-Livestock-Health-Monitoring)
+#### - [note link](https://github.com/lingxiaw/Study-notes/blob/master/Survey%20on%20forest%20fire%20monitoring%20using%20unmanned%20aerial%20vehicles.md)
 
 # Transfer Learning
 
